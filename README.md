@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Microservices, Web Apps and Services, Machine Learning, or anything else that is remotely related to computer science.**
 
-- 📫 How to reach me **prithviraj645@gmail.com**
+- 📫 How to reach me: **prithviraj645@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
