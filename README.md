@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning and working with **Digital Signal Processing, Graphics Programming and related technologies (like WebGPU)**
 
-- 👯 I’m looking to collaborate on **anything that is remotely related to computer science or math.**
+- 👯 I’m looking to collaborate on **anything that is remotely related to computer science or math**
 
 - 📫 How to reach me: **prithviraj645@gmail.com**
 
