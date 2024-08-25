@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prithviraj Renjella Rajendra Prasad</h1>
 
-- 🌱 I’m currently learning and working with **Digital Signal Processing, Graphics Programming and related technologies (like WebGL)**
+- 🌱 I’m currently learning and working with **Digital Signal Processing, Graphics Programming and related technologies (like WebGPU)**
 
 - 👯 I’m looking to collaborate on **anything that is remotely related to computer science or math.**
 
