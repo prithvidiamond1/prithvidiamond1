@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prithviraj Renjella Rajendra Prasad</h1>
 
-- 🌱 I’m currently learning and working with **Digital Signal Processing, Graphics Programming and related technologies (like WebGPU)**
-
-- 👯 I’m looking to collaborate on **anything that is remotely related to computer science or math**
-
-- 📫 How to reach me: **prithviraj645@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prithvidiamond1&show_icons=true&locale=en&theme=dracula" alt="prithvidiamond1" /></p>
+  <a href="https://prithvidiamond1.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&duration=2000&pause=500&color=00B83C&center=true&vCenter=true&width=435&lines=prithvidiamond1.com">
+  </a>
